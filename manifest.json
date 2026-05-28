@@ -2,7 +2,7 @@
   "name": "Мои заметки",
   "short_name": "Заметки",
   "description": "Заметки с будильниками",
-  "start_url": "/",
+  "start_url": "/notes-app",
   "display": "standalone",
   "background_color": "#f5f6fa",
   "theme_color": "#378ADD",
